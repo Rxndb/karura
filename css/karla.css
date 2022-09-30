@@ -196,6 +196,7 @@ a {
 
 .grid-links {
     color: black;
+    cursor: pointer;
 }
 
 .grid-sub {
