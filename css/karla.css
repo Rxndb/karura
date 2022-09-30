@@ -371,6 +371,7 @@ a {
 .vid-player {
     width: 100%;
     box-shadow: -5px 0px 20px rgba(36, 36, 36, 0.4);
+    z-index: 25;
 }
 
 /* arts section */
