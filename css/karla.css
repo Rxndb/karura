@@ -128,13 +128,14 @@ a {
 
 .welcome-txt p:nth-of-type(2) {
     margin: 0;
-    letter-spacing: 1px;
+    font-size: max(1vw, 17px);
+    letter-spacing: 0.2px;
 }
 
 .welcome-txt button {
     margin: 20px 0 0 0;
     background-color: rgb(255, 60, 120);
-    padding: 10px 17px;
+    padding: 15px 20px;
     border: none;
     border-radius: 10px;
     color: white;
@@ -146,7 +147,7 @@ a {
 
 .welcome-txt button:hover {
     opacity: 0.8;
-    padding: 10px 30px;
+    padding: 15px 35px;
 }
 
 .welcome-img {
