@@ -31,10 +31,6 @@ section {
     object-fit: cover;
 }
 
-.HoverVideo__videoBox .video::-webkit-media-controls {
-    display: none !important;
-}
-
 @media screen and (max-width: 800px) {
     .HoverVideo__wrapper {
         grid-template-columns: repeat(3, 1fr);
